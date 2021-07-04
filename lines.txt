@@ -1,0 +1,7 @@
+Add your lines here that you want to test, or call the program with the file as an argument!
+e.x.: java -jar -cp ... duplicatelinefinder myfilenamehere.txt
+DuplicateLine
+duplicateline
+Duplicateline
+not a duplicate
+neither is this one
